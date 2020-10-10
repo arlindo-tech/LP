@@ -41,7 +41,7 @@ int main(void) {
           {
           SOMACOLUNA=SOMACOLUNA+(pow(matriz[i][j],2));
           }
-            if (SOMACOLUNA!=285)
+            if (SOMACOLUNA!=285)// CORRIGIR!
              { 
                if (AUX == 0)
                {   
